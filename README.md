@@ -8,7 +8,7 @@ A modern, accessible web application built with Next.js 16, React 19, and TypeSc
 
 **🌐 [SakhiRaksha - Women Safety App](https://v0-safety-app-nine.vercel.app/)**
 
-Experience the app live at: `https://sakhi-raksha-women-safety-app.vercel.app/`
+Experience the app live at: `https://v0-safety-app-nine.vercel.app/`
 
 ---
 
