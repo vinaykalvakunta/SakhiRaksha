@@ -1,12 +1,20 @@
 # SakhiRaksha 🛡️
 
-**Sakhi** (companion) + **Raksha** (protection) — Your trusted safety companion
+> **Sakhi** (companion) + **Raksha** (protection) — Your trusted women's safety companion
 
-A modern, accessible web application built with Next.js 16, React 19, and TypeScript, designed to provide safety and protection through intuitive, responsive interfaces.
+A modern, accessible web application built with Next.js 16, React 19, and TypeScript, designed to empower women with safety tools and protection through intuitive, responsive interfaces.
+
+## 🔗 Live Demo
+
+**🌐 [SakhiRaksha - Women Safety App](https://sakhi-raksha-women-safety-app.vercel.app/)**
+
+Experience the app live at: `https://sakhi-raksha-women-safety-app.vercel.app/`
+
+---
 
 ## 🌟 Overview
 
-SakhiRaksha leverages cutting-edge web technologies to deliver a seamless, user-focused safety experience. Built with accessibility and performance at its core, it provides robust UI components and real-time interactions.
+SakhiRaksha is a comprehensive women's safety platform that leverages cutting-edge web technologies to deliver a seamless, user-focused safety experience. Built with accessibility and performance at its core, it provides robust UI components and real-time interactions to help women feel safer and more empowered.
 
 ## 🚀 Tech Stack
 
@@ -22,15 +30,17 @@ SakhiRaksha leverages cutting-edge web technologies to deliver a seamless, user-
 | **Charts** | Recharts |
 | **Notifications** | Sonner |
 | **Animations** | Embla Carousel + Vaul |
+| **Deployment** | Vercel |
 
 ## ✨ Key Features
 
 - **🎨 Responsive Interactive UI**: Accessible components including Accordions, Dialogs, Popovers, and Tabs built on Radix UI
-- **📊 Advanced Data Visualization**: Complex charts and graphs powered by Recharts
+- **📊 Advanced Data Visualization**: Complex charts and graphs powered by Recharts for safety analytics
 - **✅ Type-Safe Form Management**: Client-side schema validation using React Hook Form + Zod
 - **🎭 Dynamic Theming**: Custom color schemes for emergency, safe, and warning states
-- **🔔 Real-Time Notifications**: Toast notifications via Sonner for instant user feedback
+- **🔔 Real-Time Notifications**: Toast notifications via Sonner for instant safety alerts
 - **⚡ Smooth Animations**: High-performance carousels (Embla) and layout transitions (Vaul)
+- **🛡️ Women-Centric Safety Tools**: Purpose-built features for women's safety and protection
 
 ## 🏁 Getting Started
 
@@ -102,13 +112,20 @@ sakhiraksha/
 
 SakhiRaksha includes custom color schemes defined in the Tailwind configuration:
 
-- **Emergency**: High-contrast colors for urgent alerts
-- **Safe**: Calming tones for normal operations
-- **Warning**: Attention-grabbing hues for caution states
+- **Emergency**: High-contrast colors for urgent alerts and SOS situations
+- **Safe**: Calming tones for normal operations and secure status
+- **Warning**: Attention-grabbing hues for caution states and potential threats
+
+## 🌐 Deployment
+
+The application is deployed on Vercel for optimal performance and reliability.
+
+**Production URL**: [https://v0-safety-app-nine.vercel.app/]
+
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please feel free to submit a Pull Request to help make SakhiRaksha even better for women's safety.
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
@@ -117,19 +134,21 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 5. Open a Pull Request
 
 
-
 ## 🙏 Acknowledgments
 
+- [V0](https://v0.app/) -For UI/UX Design
 - [Next.js](https://nextjs.org/) - The React Framework
 - [Radix UI](https://www.radix-ui.com/) - Accessible component primitives
 - [shadcn/ui](https://ui.shadcn.com/) - Beautifully designed components
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework
-- 
+- [Vercel](https://vercel.com/) - Deployment and hosting platform
 
 ## 📞 Contact
 
-For questions or support, please open an issue on GitHub.
+For questions, support, or to report safety concerns, please open an issue on GitHub.
 
 ---
 
-Built with ❤️ for safety and accessibility
+**Built with ❤️ for women's safety and empowerment**
+
+*SakhiRaksha - Because every woman deserves to feel safe*
